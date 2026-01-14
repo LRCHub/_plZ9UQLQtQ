@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "色即是空卍Trick is Treat！",
+  "base_artist": "阿岐留カミラ (CV.若井友希)",
+  "createdAt": "2026-01-14T08:40:39.680886Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "色即是空卍Trick is Treat!",
+      "artist": "阿岐留カミラ(若井友希)",
+      "has_synced": false,
+      "path": "select/pl_01_色即是空卍Trick_is_Treat!_阿岐留カミラ(若井友希).txt"
+    }
+  ]
+}
